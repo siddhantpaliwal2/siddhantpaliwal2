@@ -1,5 +1,5 @@
 ### Hi there, I'm Siddhant 👋
-####  🔭 I’m currently working on some AI and Data Projects
+####  🔭 I love working on AI and Data Projects!
 ####  📫 Reach me at paliwal.siddhant@gmail.com
 
 <!--
