@@ -1,6 +1,8 @@
 ### Hi there, I'm Siddhant 👋
 ####  🔭 I love working on AI and Data Projects!
 ####  📫 Reach me at paliwal.siddhant@gmail.com
+####  🌱 Checkout siddhantpaliwal.com
+
 
 <!--
 **siddhantpaliwal2/siddhantpaliwal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
