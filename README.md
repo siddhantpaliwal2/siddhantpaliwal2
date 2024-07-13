@@ -1,7 +1,7 @@
 ### Hi there, I'm Siddhant 👋
 ####  🔭 I love working on AI and Data Projects!
 ####  📫 Reach me at paliwal.siddhant@gmail.com
-####  🌱 Checkout siddhantpaliwal.com
+####  🌱 Checkout www.siddhantpaliwal.com
 
 
 <!--
